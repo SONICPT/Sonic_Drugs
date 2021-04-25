@@ -1,0 +1,30 @@
+Locales['pt'] = {
+	['fail'] = 'Cancelado',
+	['processa_erva'] = 'Carrega [ E ] para processar a erva',
+	['processando_erva'] = 'Processando a erva',
+	['pegar_erva'] = 'Carrega [ E ] para apanhar a erva',
+	['pegando_erva'] = 'Apanhando a erva',
+	['vendendo_erva'] = 'vedendo 1x saco de erva',
+	['vender_erva'] = 'Carrega [ E ] para vender 1x saco de erva',
+
+	['processa_coca'] = 'Carrega [ E ] para processar a coca',
+	['processando_coca'] = 'Processando a coca',
+	['pegar_coca'] = 'Carrega [ E ] para apanhar a coca',
+	['pegando_coca'] = 'Apanhando a coca',
+	['vendendo_coca'] = 'vedendo 1x saco de coca',
+	['vender_coca'] = 'Carrega [ E ] para vender 1x saco de coca',
+
+	['processa_meta'] = 'Carrega [ E ] para processar a meta',
+	['processando_meta'] = 'Processando a meta',
+	['pegar_meta'] = 'Carrega [ E ] para apanhar a meta',
+	['pegando_meta'] = 'Apanhando a meta',
+	['vendendo_meta'] = 'vedendo 1x saco de meta',
+	['vender_meta'] = 'Carrega [ E ] para vender 1x saco de meta',
+
+	['processa_pet'] = 'Carrega [ E ] para processar o Petroleo',
+	['processando_pet'] = 'Processando o Petroleo',
+	['pegar_pet'] = 'Carrega [ E ] para apanhar Petroleo',
+	['pegando_pet'] = 'Apanhando Petroleo',
+	['vendendo_pet'] = 'vedendo 1x barril de petroleo',
+	['vender_pet'] = 'Carrega [ E ] para vender 1x barril de petroleo',
+}
